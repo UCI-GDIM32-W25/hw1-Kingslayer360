@@ -2,7 +2,39 @@
 # HW1
 ## W1L2 In-Class Activity
 
-Put your notes from the W1L2 (Thurs, Jan 9) in-class activity here.
+Objects
+UI-
+-Seeds planted
+		-Seeds remaining
+			--seeds planted UI
+			-Attributes   
+				-text
+				-White color
+				-Actions
+					-Count goes down when a player plants a seed
+-Player
+	Actions
+		-Placeable plants with Space bar and plants one
+		-Increases/decreases plant counts (in UI)
+		-Plant seeds at location of player
+	-movement with W,A,S,D
+		-Can go off screen
+	-No cursor
+			
+Input- Space / WASD keys
+Output- Plant placed/ movement
+	
+Color
+	-Solid background skybox
+	-Player has outline
+	-UI is white to stand out
+No animation
+
+Plant
+	-Attributes (Quality or looks)
+		-Plant Sprite 
+		-Colored
+
 
 ## Devlog
 Prompt: Include the HW1 break-down exercise you wrote during the Week 1 - Lecture 2 (Jan 9) in-class activity (above). If you did not attend and perform this activity, review the lecture slides and write your own plan for how you believe HW1 should be built. If your initially proposed plan turned out significantly different than the activity answers given by Prof Reid, you may want to note what was different. Then, write about how the plan you wrote in the break-down connects to the code you wrote. Cite specific class names and method names in the code and GameObjects in your Unity Scene.
